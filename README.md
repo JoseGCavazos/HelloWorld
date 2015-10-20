@@ -1,2 +1,4 @@
 # HelloWorld
-Test Repository
+Test Repository for Hello World sample
+
+initial create
